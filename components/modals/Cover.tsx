@@ -6,6 +6,7 @@ import BgFlowerHorizontalDown from '../BgFlowerHorizontalDown'
 interface Props {
     open: boolean
     setOpen: (open: boolean) => void
+    recipient?: string
 }
 
 const Cover: React.FC<Props> = ({ open, setOpen }) => {
