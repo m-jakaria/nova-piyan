@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fleur+De+Leah&family=Hina+Mincho&family=Inter:wght@300;400;500;600;700&family=Noto+Serif&family=Peddana&family=Uchen&display=swap');
+@import url(/wedding'https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fleur+De+Leah&family=Hina+Mincho&family=Inter:wght@300;400;500;600;700&family=Noto+Serif&family=Peddana&family=Uchen&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -17,7 +17,7 @@
 .moving-bg {
     width: 200%;
     height: 200%;
-    background-image: url(/svg/flower-tile.svg);
+    background-image: url(/wedding/svg/flower-tile.svg);
     background-size: 40%;
     background-repeat: repeat;
     position: absolute;

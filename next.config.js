@@ -1,7 +1,7 @@
-const nextConfig = {
+module.exports = {
   reactStrictMode: true,
-  basePath: '/wedding',        // untuk routing
-  assetPrefix: '/wedding/',    // untuk static assets
+  basePath: '/wedding',
+  env: {
+    NEXT_PUBLIC_BASE_PATH: '/wedding',
+  },
 }
-
-module.exports = nextConfig

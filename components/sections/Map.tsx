@@ -53,7 +53,7 @@ const Map: React.FC<MapProps> = ({ isActive }) => {
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
                     allowFullScreen={false}
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.2360370472634!2d106.82566947499494!3d-6.741036693255261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69cb8bc9ba62e3%3A0x1c8008e8b5053c54!2sJl.%20Desa%20Pasir%20Buncir%2C%20Kec.%20Caringin%2C%20Kabupaten%20Bogor%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1778422517082!5m2!1sid!2sid"
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3962.1058768686657!2d106.83211141!3d-6.75694179!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69cb8ea54c2039%3A0x16f27aad13b02b65!2sKp.%20Batukarut!5e0!3m2!1sen!2sid!4v1778573542764!5m2!1sen!2sid"
                 ></iframe>
             </div>
         </>

@@ -181,7 +181,7 @@ const Home = () => {
 
         {/* AUDIO */}
         <audio ref={audioRef} loop>
-          <source src="/audio/lagudek.mp3" type="audio/mpeg" />
+          <source src="wedding/audio/lagudek.mp3" type="audio/mpeg" />
         </audio>
       </div>
     </main>
